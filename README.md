@@ -1,17 +1,15 @@
 <h1 align="center">Olá! 👋, sou Luiz Henrique</h1>
-<h3 align="center">Um desenvolvedor iniciante explorando o mundo back-end</h3>
+<h3 align="center">Um desenvolvedor delphi e java, também gosto de python nas horas vagas.</h3>
 
-- 🔭 Estou trabalhando no momento no [cadastro universidade](https://github.com/Luiz-hvieira/cadastro_universidade)
+- 🌱 Estou aprendendo agora **como usar docker nos meus projetos**
 
-- 🌱 Estou aprendendo agora **java, mysql, shell script.**
+- 🤝 Estou procurando ajuda no **desenvolvimento da minha ideia de negócio chamada Facilita fila**
 
-- 🤝 Estou procurando ajuda no **desenvolvimento da minha primeira api**
-
-- 💬 Pode me perguntar sobre **poo, lógica matemática,**
+- 💬 Pode me perguntar sobre **POO, desenvolvimento de software, SCRUM, generics e mais recentemente reflections**
 
 - 📫 Você pode me chamar pelo **luiz.lh66@gmail.com**
 
-- ⚡ Fun fact **se não fosse programação, minha área seria com certeza ou história ou psicologia.**
+- ⚡ Fun fact **se não fosse programação, minha área seria com certeza psicologia.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
