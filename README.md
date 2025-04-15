@@ -33,11 +33,8 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
   <a href="https://www.embarcadero.com/br/products/delphi" target="_blank"> 
-    <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="mysql" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi" width="40" height="40"/> 
   </a> 
   
   
